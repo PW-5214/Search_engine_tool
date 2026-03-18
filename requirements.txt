@@ -25,3 +25,4 @@ sse_starlette
 langgraph
 pypdf
 langchainhub
+ddgs
